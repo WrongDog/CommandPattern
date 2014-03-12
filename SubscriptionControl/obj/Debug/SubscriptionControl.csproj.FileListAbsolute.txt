@@ -1,0 +1,4 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControl\bin\Debug\SubscriptionControl.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControl\bin\Debug\SubscriptionControl.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControl\obj\Debug\SubscriptionControl.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControl\obj\Debug\SubscriptionControl.pdb

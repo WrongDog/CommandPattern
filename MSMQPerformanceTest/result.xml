@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<result>
+  simulate delay 1ms
+  Send 1000 message to MQ and recieve with 1
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded 'z15k1bil'
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded 'dvfsrowr'
+  Parallel send, recieved386 in 938 ms
+  Serial send not creating mq, recieved449 in 1926 ms
+  Serial send, recieved2162 in 4354 ms
+
+  Send 1000 message to MQ and recieve with 5
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded '3fku1xym'
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded 'dv5xgrs1'
+  Parallel send, recieved999 in 963 ms
+  Serial send not creating mq, recieved999 in 1801 ms
+  Serial send, recieved999 in 3491 ms
+  
+  Send 1000 message to MQ and recieve with 10
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded '3twlzq0j'
+  'MSMQPerformanceTest.vshost.exe' (Managed (v4.0.30319)): Loaded 'gcd2qh4h'
+  Parallel send, recieved1000 in 1063 ms
+  Serial send not creating mq, recieved999 in 1909 ms
+  Serial send, recieved999 in 3621 ms
+</result>

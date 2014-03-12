@@ -1,0 +1,10 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\DynamicLinqConsoleApplication\DynamicFilter\bin\Debug\DynamicFilter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\DynamicLinqConsoleApplication\DynamicFilter\bin\Debug\DynamicFilter.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\DynamicLinqConsoleApplication\DynamicFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\DynamicLinqConsoleApplication\DynamicFilter\obj\Debug\DynamicFilter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\DynamicLinqConsoleApplication\DynamicFilter\obj\Debug\DynamicFilter.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\PostBackAdapterLibrary\DynamicFilter\bin\Debug\DynamicFilter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\PostBackAdapterLibrary\DynamicFilter\bin\Debug\DynamicFilter.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\PostBackAdapterLibrary\DynamicFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\youy\Documents\Visual Studio 2010\Projects\PostBackAdapterLibrary\DynamicFilter\obj\Debug\DynamicFilter.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\PostBackAdapterLibrary\DynamicFilter\obj\Debug\DynamicFilter.pdb

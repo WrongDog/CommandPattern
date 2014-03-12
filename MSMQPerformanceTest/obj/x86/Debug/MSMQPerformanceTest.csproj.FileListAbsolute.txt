@@ -1,0 +1,9 @@
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\MSMQPerformanceTest.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\MSMQPerformanceTest.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\BOLibrary.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\Package.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\BOLibrary.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\bin\Debug\Package.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\obj\x86\Debug\MSMQPerformanceTest.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\obj\x86\Debug\MSMQPerformanceTest.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\MSMQPerformanceTest\obj\x86\Debug\MSMQPerformanceTest.csprojResolveAssemblyReference.cache

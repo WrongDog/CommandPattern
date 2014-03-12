@@ -1,0 +1,8 @@
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\bin\Debug\DemoHelper.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\bin\Debug\DemoHelper.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\obj\x86\Debug\DemoHelper.Form1.resources
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\obj\x86\Debug\DemoHelper.Properties.Resources.resources
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\obj\x86\Debug\DemoHelper.csproj.GenerateResource.Cache
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\obj\x86\Debug\DemoHelper.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\obj\x86\Debug\DemoHelper.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\DemoHelper\bin\Debug\Architecture.docx

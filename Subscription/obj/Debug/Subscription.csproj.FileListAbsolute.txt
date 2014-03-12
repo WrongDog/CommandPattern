@@ -1,0 +1,12 @@
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Subscription\bin\Debug\Subscription.dll
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Subscription\bin\Debug\Subscription.pdb
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Subscription\obj\Debug\ResolveAssemblyReference.cache
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Subscription\obj\Debug\Subscription.dll
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Subscription\obj\Debug\Subscription.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Subscription\bin\Debug\Subscription.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Subscription\bin\Debug\Subscription.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Subscription\obj\Debug\Subscription.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Subscription\obj\Debug\Subscription.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\Subscription\bin\Debug\SubscriptionControl.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\Subscription\bin\Debug\SubscriptionControl.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Subscription\obj\Debug\Subscription.csprojResolveAssemblyReference.cache

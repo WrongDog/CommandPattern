@@ -1,0 +1,10 @@
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\obj\x86\Debug\SubscriptionControlBridgeConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\SubscriptionControlBridgeConsoleApplication.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\SubscriptionControlBridgeConsoleApplication.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\MessageQueueLibrary.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\SubscriptionControl.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\MessageQueueLibrary.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\SubscriptionControl.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\obj\x86\Debug\SubscriptionControlBridgeConsoleApplication.exe
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\obj\x86\Debug\SubscriptionControlBridgeConsoleApplication.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlBridgeConsoleApplication\bin\Debug\SubscriptionControlBridgeConsoleApplication.exe.config

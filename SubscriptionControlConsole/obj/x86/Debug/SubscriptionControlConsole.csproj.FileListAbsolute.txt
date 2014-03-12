@@ -1,0 +1,10 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\SubscriptionControlConsole.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\SubscriptionControlConsole.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\MessageQueueLibrary.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\SubscriptionControl.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\MessageQueueLibrary.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\SubscriptionControl.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\obj\x86\Debug\SubscriptionControlConsole.exe
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\SubscriptionControlConsole\obj\x86\Debug\SubscriptionControlConsole.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlConsole\obj\x86\Debug\SubscriptionControlConsole.csprojResolveAssemblyReference.cache
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\SubscriptionControlConsole\bin\Debug\SubscriptionControlConsole.exe.config

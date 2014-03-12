@@ -1,0 +1,9 @@
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Package\bin\Debug\Package.dll
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Package\bin\Debug\Package.pdb
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Package\obj\Debug\ResolveAssemblyReference.cache
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Package\obj\Debug\Package.dll
+c:\users\youy\documents\visual studio 2010\Projects\PostBackAdapterLibrary\Package\obj\Debug\Package.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Package\bin\Debug\Package.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Package\bin\Debug\Package.pdb
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Package\obj\Debug\Package.dll
+C:\Users\youy\Documents\visual studio 2010\Projects\CommandPattern\Package\obj\Debug\Package.pdb

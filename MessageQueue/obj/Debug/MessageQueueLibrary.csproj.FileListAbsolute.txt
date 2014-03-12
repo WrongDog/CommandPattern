@@ -1,0 +1,4 @@
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\MessageQueue\bin\Debug\MessageQueueLibrary.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\MessageQueue\bin\Debug\MessageQueueLibrary.pdb
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\MessageQueue\obj\Debug\MessageQueueLibrary.dll
+C:\Users\youy\Documents\Visual Studio 2010\Projects\CommandPattern\MessageQueue\obj\Debug\MessageQueueLibrary.pdb
